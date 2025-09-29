@@ -54,6 +54,51 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+<img
+  align="left"
+  alt="C++"
+  title="C++"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://github.com/gui-bus/TechIcons/blob/main/Dark/C%2B%2B.svg"
+  />
+
+<img
+  align="left"
+  alt="Excel"
+  title="Excel"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Excel.svg"
+  />
+
+<img
+  align="left"
+  alt="Word"
+  title="Word"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Word.svg"
+  />
+  
+  <img
+    align="left"
+    alt="Photoshop"
+    title="Photoshop"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Photoshop.svg"
+  />
+
+   <img
+    align="left"
+    alt="VSCode"
+    title="VSCoded"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://github.com/gui-bus/TechIcons/blob/main/Dark/VSCode.svg"
+  />
   
 <br/>
 <br/>
