@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalho como Auxiliar Fiscal em uma empresa de e-commerce
 - 🌱 Formada em Naturologia
 - 📚 Estudando Analise e Desenvolvimento de Sistemas
-- 😄 Pronomes: ela/dela
+
 <div> 
   <a href = "mailto:gabrielacavenatti.bj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/gabriela-cavenatti-1607b2276" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
